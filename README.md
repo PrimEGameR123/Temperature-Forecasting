@@ -1,6 +1,6 @@
-# Temperature analysis
+# Temperature Forecasting
 <h3> Motive </h3>
-To forecast the upcoming monthly average temperature from whether dataset.
+To forecast the upcoming monthly average temperature from whether dataset using Time Series.
 <h3> Process </h3>
 1. Cleaning the data like removing null values, fixing the datatypes etc. <br>
 2. EDA, analysing the seasonal patterns and outliers. <br>
